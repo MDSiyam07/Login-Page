@@ -70,7 +70,7 @@ img {
 .login-box .user-box input:valid ~ label {
     top: -20px;
     left: 0;
-    color: #deda83;
+    color: #ffe1bf;
     font-size: 12px;
 }
 
@@ -89,13 +89,13 @@ img {
 }
 
 .login-box a:hover {
-    background: #DBD2C8;
-    color: #bc8749;
+    background: #D2B99C;
+    color: #a0720f;
     border-radius: 5px;
-    box-shadow: 0 0 5px #deda83,
-                0 0 25px #deda83,
-                0 0 50px #deda83,
-                0 0 100px #deda83;
+    box-shadow: 0 0 5px #ffe1bf,
+                0 0 25px #ffe1bf,
+                0 0 50px #ffe1bf,
+                0 0 100px #ffe1bf;
 }
 
 .login-box a span {
